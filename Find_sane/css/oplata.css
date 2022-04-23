@@ -1,0 +1,126 @@
+body {
+  width: 1920px;
+  height: auto;
+}
+
+.oplata {
+  position: absolute;
+  width: 536px;
+  height: 610px;
+  left: 692px;
+  top: 246px;
+
+  background: #FBFBFB;
+  border: 2px solid #D0D0D0;
+  box-sizing: border-box;
+  border-radius: 30px;
+}
+.oplata_1{
+  position: absolute;
+  width: 452px;
+  height: 64px;
+  left: 42px;
+  top: 94px;
+  text-decoration: none;
+
+  background: #EAE9E9;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 15px;
+}
+.oplata_p_1{
+  position: absolute;
+  width: 234px;
+  height: 39px;
+  left: 15px;
+  top: 10px;
+  margin: 0;
+
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 39px;
+  /* identical to box height */
+
+
+  color: #4B4B4B;
+}
+.oplata_2{
+  position: absolute;
+  width: 452px;
+  height: 64px;
+  left: 42px;
+  top: 190px;
+  text-decoration: none;
+
+  background: #EAE9E9;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 15px;
+}
+.oplata_p_2{
+  position: absolute;
+  width: 234px;
+  height: 39px;
+  left: 15px;
+  top: 10px;
+  margin: 0;
+
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 39px;
+  /* identical to box height */
+
+
+  color: #4B4B4B;
+}
+.oplata_3{
+  position: absolute;
+  width: 452px;
+  height: 64px;
+  left: 42px;
+  top: 280px;
+  text-decoration: none;
+
+  background: #EAE9E9;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 15px;
+}
+.oplata_p_3{
+  position: absolute;
+  width: 234px;
+  height: 39px;
+  left: 15px;
+  top: 10px;
+  margin: 0;
+
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 39px;
+  /* identical to box height */
+
+
+  color: #4B4B4B;
+}
+.oplata_t{
+  position: absolute;
+  width: 141px;
+  height: 48px;
+  left: 695px;
+  top: 208px;
+
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+
+  color: #000000;
+}
+
